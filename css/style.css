@@ -530,7 +530,7 @@ margin: 0px 5%;
 }
 .Pricing{
 position: relative;
- background-image: url(../Images/oo.jpg);
+ background-Image: url(../Images/oo.jpg);
 background-attachment: fixed;
 background-size: cover;
 height: 450px;
